@@ -1,0 +1,15 @@
+/Users/nisasaengthong/Desktop/Meteverse/bin/Debug/net6.0/Meteverse
+/Users/nisasaengthong/Desktop/Meteverse/bin/Debug/net6.0/Meteverse.deps.json
+/Users/nisasaengthong/Desktop/Meteverse/bin/Debug/net6.0/Meteverse.runtimeconfig.json
+/Users/nisasaengthong/Desktop/Meteverse/bin/Debug/net6.0/Meteverse.dll
+/Users/nisasaengthong/Desktop/Meteverse/bin/Debug/net6.0/Meteverse.pdb
+/Users/nisasaengthong/Desktop/Meteverse/obj/Debug/net6.0/Meteverse.csproj.AssemblyReference.cache
+/Users/nisasaengthong/Desktop/Meteverse/obj/Debug/net6.0/Meteverse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nisasaengthong/Desktop/Meteverse/obj/Debug/net6.0/Meteverse.AssemblyInfoInputs.cache
+/Users/nisasaengthong/Desktop/Meteverse/obj/Debug/net6.0/Meteverse.AssemblyInfo.cs
+/Users/nisasaengthong/Desktop/Meteverse/obj/Debug/net6.0/Meteverse.csproj.CoreCompileInputs.cache
+/Users/nisasaengthong/Desktop/Meteverse/obj/Debug/net6.0/Meteverse.dll
+/Users/nisasaengthong/Desktop/Meteverse/obj/Debug/net6.0/refint/Meteverse.dll
+/Users/nisasaengthong/Desktop/Meteverse/obj/Debug/net6.0/Meteverse.pdb
+/Users/nisasaengthong/Desktop/Meteverse/obj/Debug/net6.0/Meteverse.genruntimeconfig.cache
+/Users/nisasaengthong/Desktop/Meteverse/obj/Debug/net6.0/ref/Meteverse.dll
